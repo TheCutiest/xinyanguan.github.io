@@ -81,6 +81,16 @@ h1, h2, h3 {
   max-width: 56ch;
 }
 
+.seeking {
+  margin: 0 0 20px;
+  padding-left: 12px;
+  border-left: 2px solid var(--accent);
+  font-size: 15px;
+  font-weight: 500;
+  color: var(--text);
+  max-width: 56ch;
+}
+
 .links {
   display: flex;
   flex-wrap: wrap;
